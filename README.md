@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**koolkusum/koolkusum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi! I am Kusum! I am a third year Computer Science student at Rutgers University. I enjoy experimenting and constantly learning new languages and skills.
+
+
 
 - 🔭 I’m currently working on making my personal website.
 - 🌱 I’m currently learning MongoDB, nodeJS, and AWS.

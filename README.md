@@ -5,7 +5,7 @@ Hi! I am Kusum! I am a third year Computer Science student at Rutgers University
 
 
 
-- 🔭 I’m currently working on task planner website.
+- 🔭 I’m currently working on MERN social media website.
 - 🌱 I’m currently learning MongoDB, nodeJS, tableau, and AWS.
 - 👯 I’m looking to collaborate on hackathons!
 - 💬 Ask me about anime, plants, rollerblading, crocheting/knitting, discos, and hackathons!

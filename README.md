@@ -13,8 +13,8 @@ Hi! I am Kusum! I am a third year Computer Science student at Rutgers University
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a black belt in taekwondo.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koolkusum&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Kusum's GitHub stats](https://github-readme-stats.vercel.app/api?username=koolkusum&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koolkusum&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+![Kusum's GitHub stats](https://github-readme-stats.vercel.app/api?username=koolkusum&show_icons=true&theme=panda)
 
 
 <a href="https://www.linkedin.com/in/kg1110/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>

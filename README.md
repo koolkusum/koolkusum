@@ -19,6 +19,3 @@ Hi! I am Kusum! I am a third year Computer Science student at Rutgers University
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=koolkusum&theme=panda)](https://git.io/streak-stats)
 
-
-<a href="https://www.linkedin.com/in/kg1110/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/koolkusum/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>

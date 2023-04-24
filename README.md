@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-Hi! I am Kusum! I am a third year Computer Science student at Rutgers University. I enjoy experimenting and constantly learning new languages and skills. I also heavily enjoy hackathons so please reach out with any inquiries and check out my website on the left!
+Hi! I am Kusum! I am a third year Computer Science student at Rutgers University. I enjoy experimenting and constantly learning new languages and skills to expand my horizons. I also heavily enjoy hackathons so please reach out with any inquiries and check out my website on the left!
 
 
 
-- 🔭 I’m currently working on MERN social media website.
+- 🔭 I’m currently working on MERN social media website to prepare to build my own food social media app.
 - 🌱 I’m currently learning MongoDB, nodeJS, tableau, and AWS.
 - 👯 I’m looking to collaborate on hackathons! My next hackathon is HawkHacks at Montclair State University!
 - 💬 Ask me about anime (JJBA), plants, rollerblading, crocheting/knitting, discos, and hackathons!

@@ -10,7 +10,7 @@ Hi! I am Kusum! I am a third year Computer Science student at Rutgers University
 - 👯 I’m looking to collaborate on hackathons and various projects to build my portfolio! My next hackathon is HawkHacks at Montclair State University on April @9th!
 - 💬 Ask me about anime (JJBA), plants, rollerblading, crocheting/knitting, discos, and hackathons!
 - 📫 How to reach me: Send me a message on Linkedin! https://www.linkedin.com/in/kg1110/
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I am a black belt in taekwondo.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koolkusum&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)

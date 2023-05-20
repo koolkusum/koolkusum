@@ -15,7 +15,7 @@ Hi! I am Kusum! I am a third year Computer Science student at Rutgers University
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koolkusum&layout=compact&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
-![Kusum's GitHub stats](https://github-readme-stats.vercel.app/api?username=koolkusum&show_icons=true&theme=panda)
-
+<!-- ![Kusum's GitHub stats](https://github-readme-stats.vercel.app/api?username=koolkusum&show_icons=true&theme=panda)
+ -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=koolkusum&theme=panda)](https://git.io/streak-stats)
 

@@ -4,7 +4,7 @@
 Hi! I am Kusum! I am an upcoming Senior Computer Science student at Rutgers University - New Brunswick. I enjoy experimenting and constantly learning new languages and skills to expand my horizons. I also heavily enjoy hackathons so please reach out and check out my website!
 
 
-Next hackathon: PennApps
+Next hackathon: Divhacks
 
 
 - 🔭 I’m currently working on improving MyLecturePal. Also attending the **Harvard CS50** course to further solidify fundamentals.

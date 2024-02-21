@@ -7,7 +7,7 @@ Hi! I am Kusum! I am an upcoming Senior Computer Science student at Rutgers Univ
 Next hackathon: RIEEE
 
 
-- 🔭 I’m currently working on improving MyLecturePal. Also attending the **Harvard CS50** course to further solidify fundamentals.
+- 🔭 I’m currently working on finishing school and tutoring students.
 - 🌱 I’m currently learning MongoDB, nodeJS, tableau, and AWS.
 - 👯 I’m looking to collaborate on hackathons and various projects to build my portfolio!
 - 💬 Ask me about anime (JJBA), plants, rollerblading, crocheting/knitting, discos, and hackathons!

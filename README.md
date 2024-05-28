@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-Hi! I am Kusum! I am an upcoming Senior Computer Science student at Rutgers University - New Brunswick. I enjoy experimenting and constantly learning new languages and skills to expand my horizons. I also heavily enjoy hackathons so please reach out and check out my website!
+Hi! I am Kusum! I am a new grad in Computer Science from Rutgers University - New Brunswick. I enjoy experimenting and constantly learning new languages and skills to expand my horizons. I also heavily enjoy hackathons so please reach out and check out my website!
 
 
-Next hackathon: None atm! Finals season
+Next hackathon: None atm! Joh Hunt Season and Studying for AWS CCP.
 
 
 - 🔭 I’m currently working on finishing school and tutoring students.

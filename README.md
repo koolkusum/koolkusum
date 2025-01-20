@@ -7,8 +7,8 @@ Hi! I am Kusum! I am a new grad in Computer Science from Rutgers University - Ne
 Next hackathon: HackRU Fall 2024
 
 
-- 🔭 I’m currently working on finishing school and tutoring students.
-- 🌱 I’m currently learning AWS, docker, and corporate life.
+- 🔭 I’m currently working on a website for a nonprofit and corporate life.
+- 🌱 I’m currently learning AWS and DevSecOps.
 - 👯 I’m looking to collaborate on hackathons and various projects to build my portfolio!
 - 💬 Ask me about anime (JJBA), plants, rollerblading, crocheting/knitting, discos, and hackathons!
 - 📫 How to reach me: Send me a message on Linkedin! https://www.linkedin.com/in/kg1110/ or email me at kgandham@mail.com
